@@ -1,0 +1,6 @@
+@CRMTask_HostAddress = http://localhost:5075
+
+GET {{CRMTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
